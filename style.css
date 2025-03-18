@@ -1,0 +1,20 @@
+body {
+    background-color: #F5D04E;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.background-button {
+    background-color: #000000;
+    border: none;
+    border-radius: 30px;
+    box-shadow: 4px 4px 10px 4px rgba(0, 0, 0, 0.34);
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 10px 15px;
+}
+
+.card {
+    background-color: #FFFFFF;
+}
