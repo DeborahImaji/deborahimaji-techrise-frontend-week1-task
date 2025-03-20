@@ -77,9 +77,15 @@ body {
 
 .teacher-info-container {
     display: flex;
+    margin-top: 25px;
 }
 
 .teacher-picture {
-    height: 12%;
-    width: 12%;
+    height: 10%;
+    width: 10%;
+}
+
+.teacher-name {
+    font-weight: 800;
+    margin: 10px;
 }
